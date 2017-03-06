@@ -1,0 +1,28 @@
+(dp0
+S'Vision 1'
+p1
+(dp2
+S'y'
+p3
+I424
+sS'x'
+p4
+I395
+sS'w'
+p5
+I408
+sS'h'
+p6
+I295
+ssS'Camera 1'
+p7
+(dp8
+g3
+I299
+sg4
+I817
+sg5
+I540
+sg6
+I431
+ss.
